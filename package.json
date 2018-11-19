@@ -1,0 +1,16 @@
+{
+  "name": "now-apollo-example",
+  "version": "1.0.0",
+  "description": "Example of using now serverless with apollo-server-micro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro"
+  },
+  "author": "Leza Lutonda <lemol-c@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-micro": "^2.2.2",
+    "graphql": "^14.0.2"
+  }
+}
